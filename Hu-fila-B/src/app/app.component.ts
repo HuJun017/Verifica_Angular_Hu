@@ -12,4 +12,5 @@ import { FourthComponent } from './fourth/fourth.component';
 })
 export class AppComponent {
   title = 'Hu-fila-B';
+  x : string = 'app';
 }

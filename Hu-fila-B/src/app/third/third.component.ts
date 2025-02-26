@@ -8,5 +8,5 @@ import { Component } from '@angular/core';
   styleUrl: './third.component.css'
 })
 export class ThirdComponent {
-
+  x : string = 'terzo';
 }
