@@ -1,0 +1,12 @@
+.red {
+    color: red;
+}
+.position {
+    padding-left: 40px;
+    padding-top: 40px;
+}
+.background {
+    background-color: rgba(12, 150, 150, 0.63);
+    width: 300px;
+    height: 250px;
+}
